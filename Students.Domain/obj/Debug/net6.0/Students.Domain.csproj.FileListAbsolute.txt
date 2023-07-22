@@ -1,0 +1,36 @@
+C:\D\back\toplearn 2020\mvc\Students\Students.Domain\bin\Debug\net6.0\Students.Domain.deps.json
+C:\D\back\toplearn 2020\mvc\Students\Students.Domain\bin\Debug\net6.0\Students.Domain.dll
+C:\D\back\toplearn 2020\mvc\Students\Students.Domain\bin\Debug\net6.0\Students.Domain.pdb
+C:\D\back\toplearn 2020\mvc\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.csproj.AssemblyReference.cache
+C:\D\back\toplearn 2020\mvc\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\back\toplearn 2020\mvc\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.AssemblyInfoInputs.cache
+C:\D\back\toplearn 2020\mvc\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.AssemblyInfo.cs
+C:\D\back\toplearn 2020\mvc\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.csproj.CoreCompileInputs.cache
+C:\D\back\toplearn 2020\mvc\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.dll
+C:\D\back\toplearn 2020\mvc\Students\Students.Domain\obj\Debug\net6.0\refint\Students.Domain.dll
+C:\D\back\toplearn 2020\mvc\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.pdb
+C:\D\back\toplearn 2020\mvc\Students\Students.Domain\obj\Debug\net6.0\ref\Students.Domain.dll
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Domain\bin\Debug\net6.0\Students.Domain.deps.json
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Domain\bin\Debug\net6.0\Students.Domain.dll
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Domain\bin\Debug\net6.0\Students.Domain.pdb
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Domain\obj\Debug\net6.0\Students.Domain.csproj.AssemblyReference.cache
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Domain\obj\Debug\net6.0\Students.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Domain\obj\Debug\net6.0\Students.Domain.AssemblyInfoInputs.cache
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Domain\obj\Debug\net6.0\Students.Domain.AssemblyInfo.cs
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Domain\obj\Debug\net6.0\Students.Domain.csproj.CoreCompileInputs.cache
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Domain\obj\Debug\net6.0\Students.Domain.dll
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Domain\obj\Debug\net6.0\refint\Students.Domain.dll
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Domain\obj\Debug\net6.0\Students.Domain.pdb
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Domain\obj\Debug\net6.0\ref\Students.Domain.dll
+C:\Users\ASUS\Desktop\last\Students\Students.Domain\bin\Debug\net6.0\Students.Domain.deps.json
+C:\Users\ASUS\Desktop\last\Students\Students.Domain\bin\Debug\net6.0\Students.Domain.dll
+C:\Users\ASUS\Desktop\last\Students\Students.Domain\bin\Debug\net6.0\Students.Domain.pdb
+C:\Users\ASUS\Desktop\last\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\last\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\last\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\last\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\last\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\last\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.dll
+C:\Users\ASUS\Desktop\last\Students\Students.Domain\obj\Debug\net6.0\refint\Students.Domain.dll
+C:\Users\ASUS\Desktop\last\Students\Students.Domain\obj\Debug\net6.0\Students.Domain.pdb
+C:\Users\ASUS\Desktop\last\Students\Students.Domain\obj\Debug\net6.0\ref\Students.Domain.dll

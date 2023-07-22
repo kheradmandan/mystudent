@@ -1,0 +1,48 @@
+﻿@model Students.Domain.Entities.Course
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Course</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Classtime)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Classtime)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TimeOfSession)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TimeOfSession)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Teacher)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Teacher.Mob)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CI_FieldCourse)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CI_FieldCourse.Id)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

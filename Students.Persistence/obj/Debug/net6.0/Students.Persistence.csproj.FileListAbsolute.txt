@@ -1,0 +1,51 @@
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\bin\Debug\net6.0\Students.Persistence.deps.json
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\bin\Debug\net6.0\Students.Persistence.dll
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\bin\Debug\net6.0\Students.Persistence.pdb
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.csproj.AssemblyReference.cache
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.AssemblyInfoInputs.cache
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.AssemblyInfo.cs
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.csproj.CoreCompileInputs.cache
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.dll
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\obj\Debug\net6.0\refint\Students.Persistence.dll
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.pdb
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\obj\Debug\net6.0\ref\Students.Persistence.dll
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\bin\Debug\net6.0\Students.Persistence.runtimeconfig.json
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\bin\Debug\net6.0\Students.Domain.dll
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\bin\Debug\net6.0\Students.Domain.pdb
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.csproj.CopyComplete
+C:\D\back\toplearn 2020\mvc\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.genruntimeconfig.cache
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\bin\Debug\net6.0\Students.Persistence.deps.json
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\bin\Debug\net6.0\Students.Persistence.runtimeconfig.json
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\bin\Debug\net6.0\Students.Persistence.dll
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\bin\Debug\net6.0\Students.Persistence.pdb
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\bin\Debug\net6.0\Students.Domain.dll
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\bin\Debug\net6.0\Students.Domain.pdb
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\obj\Debug\net6.0\Students.Persistence.csproj.AssemblyReference.cache
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\obj\Debug\net6.0\Students.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\obj\Debug\net6.0\Students.Persistence.AssemblyInfoInputs.cache
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\obj\Debug\net6.0\Students.Persistence.AssemblyInfo.cs
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\obj\Debug\net6.0\Students.Persistence.csproj.CoreCompileInputs.cache
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\obj\Debug\net6.0\Students.Persistence.csproj.CopyComplete
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\obj\Debug\net6.0\Students.Persistence.dll
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\obj\Debug\net6.0\refint\Students.Persistence.dll
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\obj\Debug\net6.0\Students.Persistence.pdb
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\obj\Debug\net6.0\Students.Persistence.genruntimeconfig.cache
+C:\D\back\toplearn 2020\mvc\Students - Copy (12)\Students.Persistence\obj\Debug\net6.0\ref\Students.Persistence.dll
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\bin\Debug\net6.0\Students.Persistence.deps.json
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\bin\Debug\net6.0\Students.Persistence.runtimeconfig.json
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\bin\Debug\net6.0\Students.Persistence.dll
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\bin\Debug\net6.0\Students.Persistence.pdb
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\bin\Debug\net6.0\Students.Domain.dll
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\bin\Debug\net6.0\Students.Domain.pdb
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.csproj.CopyComplete
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.dll
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\obj\Debug\net6.0\refint\Students.Persistence.dll
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.pdb
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\obj\Debug\net6.0\Students.Persistence.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\last\Students\Students.Persistence\obj\Debug\net6.0\ref\Students.Persistence.dll
